@@ -735,7 +735,7 @@ a:hover {
 }
 
 /*--------------------------------------------------------------
-# Hero Section
+
 --------------------------------------------------------------*/
 .hero {
   height: 100vh;
@@ -867,7 +867,7 @@ a:hover {
   background-color: #fff;
   padding: 2.5rem 1.3rem;
   border-radius: 1rem;
-  margin-bottom: 0rem;
+  margin-bottom: 1rem;
   text-align: center;
 }
 
